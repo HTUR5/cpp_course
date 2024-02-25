@@ -10,3 +10,6 @@
 [submodule "coup-b"]
 	path = coup-b
 	url = https://github.com/HTUR5/coup-b.git
+[submodule "coup-a"]
+	path = coup-a
+	url = https://github.com/HTUR5/coup-a.git
