@@ -4,3 +4,6 @@
 [submodule "chart_b"]
 	path = chart_b
 	url = https://github.com/HTUR5/chart_b.git
+[submodule "orgChart_a"]
+	path = orgChart_a
+	url = https://github.com/HTUR5/orgChart_a.git
