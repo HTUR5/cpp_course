@@ -7,3 +7,6 @@
 [submodule "orgChart_a"]
 	path = orgChart_a
 	url = https://github.com/HTUR5/orgChart_a.git
+[submodule "coup-b"]
+	path = coup-b
+	url = https://github.com/HTUR5/coup-b.git
