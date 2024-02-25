@@ -19,3 +19,6 @@
 [submodule "matrix-a"]
 	path = matrix-a
 	url = https://github.com/HTUR5/matrix-a.git
+[submodule "notebook-b"]
+	path = notebook-b
+	url = https://github.com/HTUR5/notebook-b.git
