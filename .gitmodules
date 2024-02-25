@@ -13,3 +13,6 @@
 [submodule "coup-a"]
 	path = coup-a
 	url = https://github.com/HTUR5/coup-a.git
+[submodule "matrix-b"]
+	path = matrix-b
+	url = https://github.com/HTUR5/matrix-b.git
