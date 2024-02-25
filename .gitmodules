@@ -1,3 +1,6 @@
 [submodule "ball"]
 	path = ball
 	url = https://github.com/HTUR5/ball.git
+[submodule "chart_b"]
+	path = chart_b
+	url = https://github.com/HTUR5/chart_b.git
