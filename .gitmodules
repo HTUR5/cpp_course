@@ -28,3 +28,6 @@
 [submodule "mat-b"]
 	path = mat-b
 	url = https://github.com/HTUR5/mat-b.git
+[submodule "mat-a"]
+	path = mat-a
+	url = https://github.com/HTUR5/mat-a.git
